@@ -1,0 +1,72 @@
+# The application expects the input graph to be symmetric (-s flag).
+# Please run on a symmetric input.
+### Application: StreamingTriangle
+### Graph: gbbs/benchmarks/EdgeOrientation/ParallelLDS/empty_h
+### Threads: 80
+### n: 0
+### m: 0
+### Params: 
+### ------------------------------------
+### Trial #: 0
+### S: 24492
+### m: 714570
+### Exact Triangle Count: 1543161
+### Approx Count: 1377187
+### Error: 0.107555
+### Trial #: 1
+### S: 23792
+### m: 714570
+### Exact Triangle Count: 1543161
+### Approx Count: 1585501
+### Error: 0.0274372
+### Trial #: 2
+### S: 24095
+### m: 714570
+### Exact Triangle Count: 1543161
+### Approx Count: 1170538
+### Error: 0.241467
+### Trial #: 3
+### S: 24188
+### m: 714570
+### Exact Triangle Count: 1543161
+### Approx Count: 1342468
+### Error: 0.130053
+### Trial #: 4
+### S: 23866
+### m: 714570
+### Exact Triangle Count: 1543161
+### Approx Count: 1585505
+### Error: 0.0274398
+### Trial #: 5
+### S: 24178
+### m: 714570
+### Exact Triangle Count: 1543161
+### Approx Count: 1527640
+### Error: 0.0100579
+### Trial #: 6
+### S: 24436
+### m: 714570
+### Exact Triangle Count: 1543161
+### Approx Count: 1886402
+### Error: 0.222427
+### Trial #: 7
+### S: 24350
+### m: 714570
+### Exact Triangle Count: 1543161
+### Approx Count: 1504491
+### Error: 0.0250589
+### Trial #: 8
+### S: 23345
+### m: 714570
+### Exact Triangle Count: 1543161
+### Approx Count: 1747529
+### Error: 0.132435
+### Trial #: 9
+### S: 23917
+### m: 714570
+### Exact Triangle Count: 1543161
+### Approx Count: 1631794
+### Error: 0.057436
+### Mean: 0.0981367
+### Standard Div: 0.0836838
+# time per iter: 0

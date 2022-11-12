@@ -1,0 +1,83 @@
+### Random Stream ###
+### Trial #: 0
+### S: 28583
+### m: 714570
+### estimated triangle count: 96
+### Exact Triangle Count: 1543161
+### Approx Count: 1500120
+### Error: 0.0278915
+### Random Stream ###
+### Trial #: 1
+### S: 28583
+### m: 714570
+### estimated triangle count: 82
+### Exact Triangle Count: 1543161
+### Approx Count: 1281353
+### Error: 0.169657
+### Random Stream ###
+### Trial #: 2
+### S: 28583
+### m: 714570
+### estimated triangle count: 127
+### Exact Triangle Count: 1543161
+### Approx Count: 1984534
+### Error: 0.286019
+### Random Stream ###
+### Trial #: 3
+### S: 28583
+### m: 714570
+### estimated triangle count: 112
+### Exact Triangle Count: 1543161
+### Approx Count: 1750140
+### Error: 0.134127
+### Random Stream ###
+### Trial #: 4
+### S: 28583
+### m: 714570
+### estimated triangle count: 111
+### Exact Triangle Count: 1543161
+### Approx Count: 1734514
+### Error: 0.124001
+### Random Stream ###
+### Trial #: 5
+### S: 28583
+### m: 714570
+### estimated triangle count: 95
+### Exact Triangle Count: 1543161
+### Approx Count: 1484494
+### Error: 0.0380174
+### Random Stream ###
+### Trial #: 6
+### S: 28583
+### m: 714570
+### estimated triangle count: 97
+### Exact Triangle Count: 1543161
+### Approx Count: 1515746
+### Error: 0.0177655
+### Random Stream ###
+### Trial #: 7
+### S: 28583
+### m: 714570
+### estimated triangle count: 113
+### Exact Triangle Count: 1543161
+### Approx Count: 1765766
+### Error: 0.144253
+### Random Stream ###
+### Trial #: 8
+### S: 28583
+### m: 714570
+### estimated triangle count: 91
+### Exact Triangle Count: 1543161
+### Approx Count: 1421989
+### Error: 0.0785219
+### Random Stream ###
+### Trial #: 9
+### S: 28583
+### m: 714570
+### estimated triangle count: 91
+### Exact Triangle Count: 1543161
+### Approx Count: 1421989
+### Error: 0.0785219
+### Mean: 0.109877
+### Standard Div: 0.0809012
+# time per iter: 0

@@ -1,0 +1,6 @@
+Input graph directory: test_graphs/
+Dynamic graphs: superuser
+Output directory: ./outputs/MV
+Benchmarks: StreamingTriangle
+Eps: 0.15, 0.2
+Trials: 10

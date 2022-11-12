@@ -1,0 +1,6 @@
+Input graph directory: test_graphs/
+Dynamic graphs: superuser, hepph
+Output directory: ./outputs/
+Benchmarks: StreamingTriangle
+Percent: 0.02, 0.04
+Trials: 10
