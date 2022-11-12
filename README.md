@@ -6,6 +6,9 @@ Codebase for " Streaming Triangle Counting: Breaking the Curse of Small Sample S
 This codebase includes three models (regression models and DNN models) and one algorithm for random-order streams:
 
 LinearRegression
+
 PrefixBucket
+
 RandomOrder
+
 TwoFeatureDNN
